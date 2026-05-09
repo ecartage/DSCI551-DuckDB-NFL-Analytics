@@ -1,9 +1,6 @@
 # DuckDB NFL Analytics App
 DSCI 551 Final Project — Emanuel Cartagena
 
-## Overview
-A Streamlit application that runs analytical queries on NFL 2025 play-by-play data using DuckDB. Users can view player and team statistics filtered by season type with interactive charts and DuckDB execution plans.
-
 
 Run this:
 pip install streamlit duckdb
