@@ -10,10 +10,8 @@ pip install streamlit duckdb
 
 ## How to Run
 1. Clone the repository
-  git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
 
 2. Navigate into the project folder
-  cd YOUR_REPO_NAME
 
 3. Install dependencies (aka streamlit)
   pip install streamlit duckdb
