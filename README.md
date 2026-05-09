@@ -14,9 +14,11 @@ pip install streamlit duckdb
 2. Navigate into the project folder
 
 3. Install dependencies (aka streamlit)
+
   pip install streamlit duckdb
 
-4. Run the app
+5. Run the app
+
   streamlit run 551_demo.py
 
 The app will open automatically in your browser.
